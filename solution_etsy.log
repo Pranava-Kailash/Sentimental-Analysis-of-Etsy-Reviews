@@ -1,0 +1,979 @@
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101]
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:root:Started
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
+INFO:WDM:
+
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Current google-chrome version is 91.0.4472
+INFO:WDM:Get LATEST driver version for 91.0.4472
+INFO:WDM:Driver [C:\Users\Pranava's PC\.wdm\drivers\chromedriver\win32\91.0.4472.101\chromedriver.exe] found in cache
